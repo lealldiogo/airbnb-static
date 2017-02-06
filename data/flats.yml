@@ -1,0 +1,16 @@
+diogo:
+  owner_name: Diogo Loreto Leal
+  picture: images/posto-7.jpg
+  owner_picture: images/diogo.png
+  name: Diogo's Home
+  summary: Bedroom at Boa Viagem
+  city: Recife, PE
+  wifi: true
+pierre:
+  owner_name: Pierre Rozé
+  picture: images/posto-8.jpg
+  owner_picture: images/pierre.png
+  name: Pierre's and friends apartment
+  summary: Comfortable couch at Ipanema
+  city: Rio de Janeiro, RJ
+  wifi: true
